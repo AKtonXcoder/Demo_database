@@ -83,7 +83,7 @@ INSERT INTO Address (StreetAddress, City, State, ZipCode) VALUES
 
 -- Insert  data into the Employee table
 INSERT INTO Employee (FirstName, LastName, DOB, Gender, PanID, CurrentAddressID, PermanentAddressID) VALUES
-('Ajit', 'Tiwari', '05-10-1998', 'Male', 1, 1, 2),
+('Ajeet', 'Tiwari', '05-10-1998', 'Male', 1, 1, 2),
 ('Anil', 'Verma', '29-03-2000', 'male', 2, 2, 3),
 ('Sunil', 'Sir', '11-05-1990', 'Male', 3, 3, 4),
 ('Ruchi', 'Maravi', '20-08-2002', 'Female', 4, 4, 5),
